@@ -1,0 +1,2 @@
+# mems-generate
+mem.generate
